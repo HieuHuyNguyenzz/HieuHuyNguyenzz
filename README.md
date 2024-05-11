@@ -8,13 +8,16 @@
 - 🎓 Aim to study Master degree abroad
 - 🌐 My personal page: [Hieuhuynguyenzz](https://hieuhuynguyenzz.github.io/)
 
-## ⬆ My researches Topic:
-- 🔨 𝙸 worked on:
-  -   Applied TrAdaBoost to the task of encrypted traffic classification 
-  
-- 🔨 i'm currently working on:
-  -   Improving convergence of Federated Learning on Heterogeneity environments
-  -   Creates new Fuzzy System Mutator on AFL++ framework
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My techical skill sets
+```javascript
+const thai = {
+  specialize: [General CS, Data Science, Algorithms, Machine Learning]
+  code: [Javascript, C++, Python, C#],
+  tools: [ReactJS, STL, Numpy, Pandas, Matplotlib, Tensorflow, Pytorch, Flower, DotNet],
+  architecture: ["Artificial Intellegent", "distribution system"],
+ challenge: "I am training for the ICPC regional by the end of year"
+}
+```
 
 ## 📫 More pages about me
 My socials and working pages:
