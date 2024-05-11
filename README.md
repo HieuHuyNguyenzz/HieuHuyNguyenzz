@@ -11,7 +11,7 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My techical skill sets
 ```javascript
 const thai = {
-  specialize: [General CS, Data Science, Algorithms, Machine Learning]
+  specialize: [General CS, Data Science, Algorithms, Machine Learning],
   code: [Javascript, C++, Python, C#],
   tools: [ReactJS, STL, Numpy, Pandas, Matplotlib, Tensorflow, Pytorch, Flower, DotNet],
   architecture: ["Artificial Intellegent", "distribution system"],
