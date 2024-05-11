@@ -1,5 +1,13 @@
 # Hieu Huy Nguyen
 
+[![GitHub followers](https://img.shields.io/github/followers/HieuHuyNguyenzz?style=social)](https://github.com/HieuHuyNguyenzz)
+[![Linkedin Badge](https://img.shields.io/badge/-HieuHuyNguyenzz-yellow?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sriharikapu/)]()
+[![Instagram Badge](https://img.shields.io/badge/-HieuHuyNguyenzz-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/HieuHuyNguyenzz/)](https://www.instagram.com/hieeuj_nguyen/)
+[![Facebook Badge](https://img.shields.io/badge/-HieuHuyNguyenzz-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/HieuHuyNguyenzz)](https://www.facebook.com/GOD1402/)
+[![Website Badge](https://img.shields.io/badge/-HieuHuyNguyenzz-darkgreen?style=flat-square&logo=Safari&logoColor=white&link=http://HieuHuyNguyenzz.com)](https://hieuhuynguyenzz.github.io/))
+[![Codeforces Badge](https://img.shields.io/badge/-HieuHuyNguyenzz-orange?style=flat-square&logo=Codeforces&logoColor=white&link=http://HieuHuyNguyenzz.com)](https://codeforces.com/profile/Sieucup2024_hieeuj)
+[![Orcid Badge](https://img.shields.io/badge/-HieuHuyNguyenzz-orange?style=flat-square&logo=Orcid&logoColor=white&link=http://HieuHuyNguyenzz.com)](https://orcid.org/0009-0005-2102-3791))
+
 ![Preview](https://github.com/HieuHuyNguyenzz/HieuHuyNguyenzz/blob/main/background.jpg?raw=true)
 
 ## :book: About Me
@@ -18,13 +26,6 @@ const thai = {
  challenge: "I am training for the ICPC regional by the end of year"
 }
 ```
-
-## 📫 More pages about me
-My socials and working pages:
-
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://linkedin.com/in/Raymo111)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow Raymo111 on Twitter"/>](https://twitter.com/Raym0111)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>](https://instagram.com/Raymo111)
 
 ## ⚡ List of things you might find interesting in this Github
 - 💪 Source codes and related files about my research on Federated Learning.
