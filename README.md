@@ -11,7 +11,7 @@
 ![Preview](https://github.com/HieuHuyNguyenzz/HieuHuyNguyenzz/blob/main/background.jpg?raw=true)
 
 ## :book: About Me
-- 🖥 Currently a Bachelor Computer Science student 
+- 🖥 Currently a Computer Science' Bachelor student 
 - 💼 Research Assistant at AINI lab of Hanoi University of Science and Technology's BKCS 
 - 🎓 Aim to study Master degree abroad
 - 🌐 My personal page: [Hieuhuynguyenzz](https://hieuhuynguyenzz.github.io/)
