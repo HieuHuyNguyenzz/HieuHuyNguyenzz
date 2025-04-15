@@ -7,6 +7,7 @@
 [![Website Badge](https://img.shields.io/badge/-HieuHuyNguyenzz-darkgreen?style=flat-square&logo=Safari&logoColor=white&link=http://HieuHuyNguyenzz.com)](https://hieuhuynguyenzz.github.io/))
 [![Codeforces Badge](https://img.shields.io/badge/-HieuHuyNguyenzz-orange?style=flat-square&logo=Codeforces&logoColor=white&link=http://HieuHuyNguyenzz.com)](https://codeforces.com/profile/Sieucup2024_hieeuj)
 [![Orcid Badge](https://img.shields.io/badge/-HieuHuyNguyenzz-orange?style=flat-square&logo=Orcid&logoColor=white&link=http://HieuHuyNguyenzz.com)](https://orcid.org/0009-0005-2102-3791))
+[![LeetCode Badge](https://img.shields.io/badge/-HieuHuyNguyenzz-orange?style=flat-square&logo=LeetCode&logoColor=white&link=https://leetcode.com/HieuHuyNguyenzz/)](https://leetcode.com/u/hieuhuy1402/))
 
 ![Preview](https://github.com/HieuHuyNguyenzz/HieuHuyNguyenzz/blob/main/background.jpg?raw=true)
 
